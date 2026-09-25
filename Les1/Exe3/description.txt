@@ -1,0 +1,19 @@
+1. Removed unnecessary comment on line 1.
+
+3. Added "using namespace std" for semplicity.
+
+2. Initialized variables for good practice.
+
+3. Removed unnecessary escape sequences (\n) and replaced useful ones with "<< endl".
+
+4. Removed redundant cout;
+
+5. Fixed a vocabulary error on line 9
+
+6. Replaced while instruction with if instruction.
+
+7. Fixed a logic error on line 13 on condition.
+
+8. Fixed output form on line 14 and 16/17.
+
+9. Removed line 20 and 21.

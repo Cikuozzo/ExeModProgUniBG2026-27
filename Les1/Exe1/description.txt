@@ -1,0 +1,13 @@
+1. Initialized all variables to 0 for good practice.
+
+2. Removed "sum = 0;" on line 7 to avoid redundancy.
+
+3. Removed the multiple (not really needed ) "\n" escape sequences.
+
+4. Removed the redundant "<< endl" on line 10.
+
+5. Fixed the angular brackets facing the other way on line 12.
+
+6. Removed the not working line 18 and the relative comment on line 19.
+
+7. Added "return EXIT_SUCCESS for good practice".

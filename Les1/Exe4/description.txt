@@ -1,0 +1,13 @@
+1. Removed unnecessary comment on line 1.
+
+2. Added "using namespace std;"
+
+3. Inlined variables initialization.
+
+4. Removed "std::" since not required anymore.
+
+5. Inlined if instruction.
+
+6. Removed unnecessary escape sequences and replaced useful ones with "<< endl".
+
+7. remove line 17-18.

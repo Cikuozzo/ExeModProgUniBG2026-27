@@ -1,0 +1,13 @@
+1. Added iostream library
+
+2. Wrote "using namespace std;" for semplicity even tho is not good practice.
+
+3. Inlined the variables initialization
+
+4. Removed unnecessary escape sequences (\n);
+
+5. Fixed a typo on line 13.
+
+6. Removed redundant "<< endl" on line 13;
+
+7. Removed unnecessary line 15 and relative comment
